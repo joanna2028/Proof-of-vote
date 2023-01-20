@@ -3,21 +3,21 @@ Proof-of-vote, validators selected by people-vote Joanna Picetti,  https://www.j
 
 
  
-Introduction
+# Introduction
  
 The Nakamoto consensus is a majority consensus system based on popular vote. What
 distinguishes the different variations of Nakamoto consensus algorithms (such as proof-of-work,
 proof-of-stake, or proof-of-vote) is how voting rights are allocated.
  
 
-Proof-of-stake VS proof-of-vote
+# Proof-of-stake VS proof-of-vote
  
 Overall, in a proof-of-stake network at any given time, you could remove all coins from all
 validators, replace those with people-votes in exact same quantity and distribution, and it would
 operate identically. The only difference is that the people voting get a share of the transaction
 fees
 
-Validator selection in proof-of-vote 
+# Validator selection in proof-of-vote 
 
 Validator selection is done by that each validator covers a range of numbers, from 0 to maxIn. Every period (every block in a blockchain), a random number is generated, and the validator that covers that number is selected. To allow for an infinite number of validators, the entities that can be selected are atomic in how many numbers they cover, so that they each cover maxInt/totalEntities numbers. This is done by using the voters, individual people, as the entities that are selected. Voters give their vote to validators, and the voter that is selected by the randomly generated number authorizes their validator for the next period. To compare with existing infrastructure, the voters are analogous to individual miners in a mining pool, and the validator the mining pool. 
 
