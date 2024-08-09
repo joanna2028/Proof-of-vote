@@ -1,5 +1,5 @@
 # Proof-of-vote
-Proof-of-vote, validators selected by people-vote Joanna Picetti,  https://www.jp.network/ ABSTRACT: Proof-of-vote is a third generation of the Nakamoto consensus. With proof-of-vote, validators compete for people-votes, using proof-of-suffrage given by proof-of-person, and authorize transactions based on authority delegated by the consensus mechanism, just like proof-of-work or proof-of-stake. This logical conclusion of the Nakamoto consensus allows a “nation” of people to secure their own ledger, the equivalent of representative democracy for distributed ledger technology.
+Proof-of-vote, validators selected by people-vote Joanna  https://www.jp.network/ ABSTRACT: Proof-of-vote is a third generation of the Nakamoto consensus. With proof-of-vote, validators compete for people-votes, using proof-of-suffrage given by proof-of-person, and authorize transactions based on authority delegated by the consensus mechanism, just like proof-of-work or proof-of-stake. This logical conclusion of the Nakamoto consensus allows a “nation” of people to secure their own ledger, the equivalent of representative democracy for distributed ledger technology.
 
 
  
